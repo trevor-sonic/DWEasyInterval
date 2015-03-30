@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For DWEasyUnbounce
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DWEasyInterval	KEYWORD1
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+start			KEYWORD2
+stop			KEYWORD2		
+restart			KEYWORD2
+loop			KEYWORD2
+setDelay		KEYWORD2
+setFunction		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
